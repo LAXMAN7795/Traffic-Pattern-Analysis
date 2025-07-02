@@ -63,7 +63,7 @@ Visualizes how traffic changes over time.
 
 ### 5. Actual vs Predicted Vehicle Count  
 Shows model predictions vs real traffic volume for evaluation.  
-![Prediction](outputs/actual_vs_predicted.png)
+![Prediction](https://github.com/LAXMAN7795/Traffic-Pattern-Analysis/blob/a937b2ca35f441b2c525f8d2619476c27e7e01b7/output/actual_vs_predicted.png)
 
 ---
 
