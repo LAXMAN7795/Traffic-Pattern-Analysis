@@ -45,7 +45,7 @@ Displays average vehicle count per hour across all days.
 
 ### 2. Traffic Volume Heatmap (Day vs Hour)  
 Shows how traffic fluctuates across different days and times.  
-![Heatmap](outputs/heatmap.png)
+![Heatmap](https://github.com/LAXMAN7795/Traffic-Pattern-Analysis/blob/896cc3e4afe2ff2af72f8c9df3aa8a7d5d2ca246/output/heatmap.png)
 
 ---
 
