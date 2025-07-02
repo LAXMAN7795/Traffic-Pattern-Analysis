@@ -57,7 +57,7 @@ Compares traffic volumes across the four monitored junctions.
 
 ### 4. Daily Traffic Trends  
 Visualizes how traffic changes over time.  
-![Daily Trends](outputs/daily.png)
+![Daily Trends](https://github.com/LAXMAN7795/Traffic-Pattern-Analysis/blob/9e181ba77433a06c06cc621b1165440e4bedfb03/output/daily.png)
 
 ---
 
