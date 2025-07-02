@@ -51,7 +51,7 @@ Shows how traffic fluctuates across different days and times.
 
 ### 3. Total Vehicle Count by Junction  
 Compares traffic volumes across the four monitored junctions.  
-![Junction Summary](outputs/junction_sum.png)
+![Junction Summary](https://github.com/LAXMAN7795/Traffic-Pattern-Analysis/blob/3ad56ebeaace4395c4481888b499772aec5538dc/output/junction_sum.png)
 
 ---
 
