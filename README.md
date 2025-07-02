@@ -39,7 +39,7 @@ This project analyzes traffic volume patterns using real-world data collected fr
 
 ### 1. Average Traffic Volume by Hour  
 Displays average vehicle count per hour across all days.  
-![Hourly Average](outputs/hourly_avg.png)
+![Hourly Average](https://github.com/LAXMAN7795/Traffic-Pattern-Analysis/blob/0e99615d13de1063863ca2fc927ba68e2a47cc8d/output/hourly_avg.png)
 
 ---
 
